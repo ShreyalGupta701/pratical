@@ -1,0 +1,17 @@
+{
+  "name": "tyuii",
+  "version": "1.0.0",
+  "main": "exam2.js",
+  "scripts": {
+    "start": "node exam2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "mongoose": "^9.6.1"
+  }
+}
